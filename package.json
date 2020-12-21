@@ -1,0 +1,23 @@
+{
+  "name": "super-simple-netlify-function-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify-lambda serve functions",
+    "build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitek94/super-simple-netlify-function-example.git"
+  },
+  "author": "Maciek Sitkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitek94/super-simple-netlify-function-example/issues"
+  },
+  "homepage": "https://github.com/sitek94/super-simple-netlify-function-example#readme",
+  "devDependencies": {
+    "netlify-lambda": "^2.0.2"
+  }
+}
